@@ -1,4 +1,4 @@
-## Unreleased
+## v1.1.1
 
 - Fueron actualizados los archivos introducción e historial, estas actulizaciones se realizaron en actividades anteriores.
 
